@@ -1,0 +1,16 @@
+{
+  "total_reels_published": 0,
+  "daily_reels_target": 2,
+  "learnings": [
+    "High-contrast hook text in first 2 seconds prevents scroll-away drop-off.",
+    "Captions with active Call-To-Action (save/share/tag) drive 3x more algorithmic engagement."
+  ],
+  "viral_reasons": [
+    "High curiosity gap in first 3 seconds",
+    "Clear, bold readability on mobile screens"
+  ],
+  "flop_reasons": [
+    "Slow openings with no hook",
+    "Text obstructing key faces or subjects"
+  ]
+}
