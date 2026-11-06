@@ -1,7 +1,7 @@
 """
 ========================================================================
 UNIVERSAL INSTAGRAM REELS AUTOPILOT (ZERO-PROMPT ARCHITECTURE)
-Conceived & Architected by: Jaynil Patel (@sunnyptl95)
+Conceived & Architected by: Sunny Patel (@sunnyptl95)
 Engineered with: Antigravity AI (Google DeepMind)
 ========================================================================
 """

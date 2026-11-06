@@ -101,4 +101,4 @@ Don't have videos to post? We are preparing curated, high-retention Google Drive
 ## 📄 License
 
 Distributed under the **MIT License**. See [LICENSE](LICENSE) for more information.
-Created with passion by **Jaynil Patel** ([@sunnyptl95](https://github.com/sunnyptl95)).
+Created with passion by **Sunny Patel** ([@sunnyptl95](https://github.com/sunnyptl95)).
