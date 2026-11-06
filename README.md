@@ -7,7 +7,7 @@
 
 ## 👑 Credits & Authorship
 
-* 💡 **Conceived, Designed & Directed by:** **Jaynil Patel** ([@sunnyptl95](https://github.com/sunnyptl95))
+* 💡 **Conceived, Designed & Directed by:** **Sunny Patel** ([@sunnyptl95](https://github.com/sunnyptl95))
 * ⚡ **Architected & Engineered with:** **Antigravity AI (Google DeepMind)**
 * 📜 **License:** [MIT License](LICENSE) — Free for open-source use and community contribution.
 
